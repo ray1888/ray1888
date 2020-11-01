@@ -21,7 +21,7 @@
 
 **🌈 Languages:** 
 <p align="left">
-<img src="https://www.vectorlogo.zone/logos/golang/golang-official.svg" alt="Golang" width="40" />
+<img src="https://www.vectorlogo.zone/logos/golang/golang-official.svg" alt="Golang" width="40" height="40"/>
 <img src="https://www.vectorlogo.zone/logos/python/python-icon.svg" alt="Python" width="40" height="40"/>
 <img src="https://www.vectorlogo.zone/logos/rust-lang/rust-lang-icon.svg" alt="Rust" width="40" height="40"/>
 </p>
