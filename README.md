@@ -29,7 +29,7 @@
 
 **📝 My Arctic Code Vault Project :**
 
-- [AlgoCasts 排序算法专题(Comiiter)](https://github.com/HawsteinStudio/algocasts-sorting-algorithms)
+- [AlgoCasts 排序算法专题(Committer)](https://github.com/HawsteinStudio/algocasts-sorting-algorithms)
 - [Go LeetCode(Maintainer)](https://github.com/ray1888/go-leetcode)
 - [DDD explore Project](https://github.com/ray1888/cqrs-doamin-ddd)
 - [Amas-eye (A Monitor System base on opentsdb to develop)](https://github.com/amas-eye)
