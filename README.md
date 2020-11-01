@@ -9,12 +9,11 @@
   - **[Blog](https://ray1888.github.io)**
 
 
-** 🌱Tag: **
-1. Gopher
-2. Pythonista
-3. Sql User
+**👯 Tag:** 
+- Gopher
+- Pythonista
 
-** 🌱 interested In Thess Domain:** 
+**🌱 interested In Thess Domain:** 
 - Mointoring System
 - Devops 
 - Distributed System
@@ -34,7 +33,7 @@
 - [AlgoCasts 排序算法专题(Comiiter)](https://github.com/HawsteinStudio/algocasts-sorting-algorithms)
 - [Go LeetCode(Maintainer)](https://github.com/ray1888/go-leetcode)
 - [DDD explore Project](https://github.com/ray1888/cqrs-doamin-ddd)
-- [amas-eye (A Monitor System base on opentsdb to develop)](https://github.com/amas-eye)
+- [Amas-eye (A Monitor System base on opentsdb to develop)](https://github.com/amas-eye)
 - ...
 
 
